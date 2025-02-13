@@ -1,0 +1,11 @@
+../Core/Src/main.c:79:6:HAL_CAN_RxFifo0MsgPendingCallback	3
+../Core/Src/main.c:90:6:SetMotorSpeed	2
+../Core/Src/main.c:103:6:MotorStart	3
+../Core/Src/main.c:117:6:MotorStop	1
+../Core/Src/main.c:129:5:main	5
+../Core/Src/main.c:206:6:SystemClock_Config	3
+../Core/Src/main.c:252:13:MX_CAN1_Init	3
+../Core/Src/main.c:302:13:MX_TIM1_Init	5
+../Core/Src/main.c:367:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:400:13:MX_GPIO_Init	1
+../Core/Src/main.c:445:6:Error_Handler	1
